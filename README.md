@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rita and I'm a full stack developer</p>
+<p align="left">My name is Rita and I'm a fronend developer and UI/UX designer</p>
 
 ###
 
