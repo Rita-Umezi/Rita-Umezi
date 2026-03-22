@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Really motivated to code<br>📚 I'm currently learning backend<br>🎯 Goals: To make something unique<br>🎲 Fun fact: I secretely love vibe coding</p>
+<p align="left">✨ Really motivated to code<br>📚 I'm currently learning backend<br>🎯 Goals: To make something unique<br>🎲 Fun fact: I love gaming :)</p>
 
 ###
 
