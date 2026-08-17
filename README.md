@@ -16,7 +16,7 @@
 
 ## About Me
 
-🎓 2nd-year **Software Engineering** student at **Babcock University** — First Class · 4.62 CGPA  
+🎓 3rd-year **Software Engineering** student at **Babcock University** — First Class · 4.55 CGPA  
 💻 I build full-stack web apps: clean frontends, real APIs, and backends that actually work  
 🌍 Projects include an **African Countries Web App**, a **REST API**, and a **Book Review Platform**  
 📖 Currently deepening my backend skills with **Node.js** and **Express.js**  
