@@ -27,18 +27,19 @@
 
 ## 🛠 Tech Stack
 
-**Languages**
+**Design Tool**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 
 **Backend & Tools**
 
@@ -46,7 +47,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 
 ---
 ---
@@ -55,9 +56,9 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🌍 African Countries App | Explore data across African nations — flags, capitals, populations | JavaScript, REST API |
-| [📚 Nigerian Book Reviews](https://github.com/Rita-Umezi/Nigerian_Book_Reviews) | Community platform to discover and review Nigerian literature | JavaScript, HTML |
-| [🗃️ Inventory System](https://github.com/Rita-Umezi/InventorySystem) | Full inventory management system | JavaScript |
+| 🌍 African Countries App |(https://github.com/Rita-Umezi/africa-wonders-map)| Explore data across African nations — flags, capitals, populations | TypeScript, CSS |
+| [📚 Nigerian Book Reviews](https://github.com/Rita-Umezi/Nigerian_Book_Reviews) | Community platform to discover and review Nigerian literature | TypeScript |
+| [🗃️ Inventory System](https://github.com/Rita-Umezi/InventorySystem) | Full inventory management system | React, CSS |
 | [🌐 Portfolio](https://ritaporfolio-87f6.vercel.app/) | Personal developer portfolio | HTML, CSS, JS |
 
 ---
