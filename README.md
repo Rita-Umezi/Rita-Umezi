@@ -60,7 +60,7 @@
 | [🌍 African Countries App](https://github.com/Rita-Umezi/africa-wonders-map)| Explore data across African nations — flags, capitals, populations | TypeScript, CSS |
 | [📚 Nigerian Book Reviews](https://github.com/Rita-Umezi/Nigerian_Book_Reviews) | Community platform to discover and review Nigerian literature | TypeScript |
 | [🗃️ Inventory System](https://github.com/Rita-Umezi/InventorySystem) | Full inventory management system | React, CSS |
-| [🌐 Portfolio](https://ritaporfolio-87f6.vercel.app/) | Personal developer portfolio | HTML, CSS |
+| [🌐 Portfolio](https://ritaporfolio-87f6.vercel.app/) | Personal developer portfolio | HTML, Tailwind CSS |
 
 ---
 
